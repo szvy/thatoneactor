@@ -15,7 +15,6 @@ async function searchMovies() {
 function displayMovies(movies) {
     moviesContainer.innerHTML = '';
     actorsContainer.innerHTML = '';
-    pop.innerHTML = '';
     movies.forEach(movie => {
         const movieDiv = document.createElement('div');
         movieDiv.classList.add('movie');
