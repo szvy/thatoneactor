@@ -1,4 +1,4 @@
-const apiKey = (process.env.APIKEY);
+const apiKey = '22e40eda03c997570e3dbc0c3a30edbc';
 const moviesContainer = document.getElementById('moviesContainer');
 const actorsContainer = document.getElementById('actorsContainer');
 const placeholderImage = 'https://placehold.co/300x450?text=no+image+found';
