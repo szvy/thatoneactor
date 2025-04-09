@@ -1,7 +1,6 @@
 const searchbarsigmaprompts = [
     "Try your favorite movie!",
     "Sugar Free!",
-    "Made by Szvy!",
     "// remove this from prod",
     "Enter a classic... or that one random movie you saw 5 years ago and cant forget about",
     "Action? Drama? Try it here!",
